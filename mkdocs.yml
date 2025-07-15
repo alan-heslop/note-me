@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: Note taking with MkDocs Material
+site_description: A simple note-taking application using MkDocs Material.
+site_author: Alan Heslop
 site_url: https://sitename.example.com
 theme:
   name: material
@@ -10,8 +12,6 @@ theme:
   features:
     - navigation.footer
   palette:
-
-
     # Light Mode
     - scheme: default
       toggle:
@@ -61,3 +61,13 @@ extra:
       link: http://test.com
 
 copyright: Copyright &copy; 2024 Alan Heslop
+
+nav:
+  - My Docs:
+      - Welcome: index.md
+      - Admonitions: admonitions.md
+  - Examples:
+      - Code Examples: code-examples.md
+      - Content Tabs: content-tabs.md
+      - Diagrams: diagram-examples.md
+  - Test: test.md
