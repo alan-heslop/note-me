@@ -10,13 +10,7 @@ theme:
   features:
     - navigation.footer
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: green
-      accent: deep purple
+
 
     # Light Mode
     - scheme: default
@@ -25,6 +19,14 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+      # Dark Mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
 
 markdown_extensions:
   - attr_list
@@ -49,10 +51,6 @@ markdown_extensions:
 
 extra:
   social:
-    # - icon: simple/youtube
-    #   link: https://youtube.com/@james-willett
-    # - icon: simple/linkedin
-    #   link: https://linkedin.com/in/willettjames
     - icon: simple/github
       link: http://test.com
     - icon: simple/google
