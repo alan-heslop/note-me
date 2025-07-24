@@ -48,6 +48,12 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - secrets.js
+  - auth.js
+
 
 extra:
   social:
@@ -71,4 +77,7 @@ nav:
       - Content Tabs: content-tabs.md
       - Diagrams: diagram-examples.md
   - Test: test.md
-  - PDP: pdp.md
+  - Personal Development Plan:
+      - PDP: pdp/pdp.md
+      - Career Plan:  pdp/career-plan.md
+      - Feedback: pdp/feedback.md
