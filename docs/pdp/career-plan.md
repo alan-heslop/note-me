@@ -1,5 +1,5 @@
 ---
-![AWS CCP](../assets/plan.jpg)
+![AWS CCP](../assets/new-career-plan.jpg)
 ---
 
 | Certification                            | Progress                             | Next Steps                    |
