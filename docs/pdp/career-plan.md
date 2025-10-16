@@ -16,6 +16,11 @@ Other Certifications in mind (update as i go along):
 ![AWS CCP](../assets/gitlab.png){ width=200 }
 ![AWS CCP](../assets/LINUX+.png){ width=200 }
 ![AWS CCP](../assets/terraform.png){ width=200 }
+![AWS CCP](../assets/cloudos.png){ width=200 }
+https://www.qa.com/resources/blog/announcing-the-aws-certified-cloudops-engineer-associate-soa-c03-exam/
 
 https://university.platformengineering.org/introduction-to-platform-engineering
 ![AWS CCP](../assets/platform-engineering.png){ width=200 } https://www.virtualbadge.io/certificate-validator?credential=e78799ea-12f4-424f-8e1f-3e50e92c83b6
+
+
+
